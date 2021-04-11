@@ -1,0 +1,67 @@
+body {
+  text-align: center;
+  margin: 0;
+  padding: 60px;
+
+}
+hr {
+  margin: 50px 0 50px 0;
+  width: 100%;
+}
+h1 {
+  font-family: 'Monsieur La Doulaise', cursive;
+  font-size: 100px;
+  }
+h2 {
+  text-align:left;
+  font-family: 'Quicksand', sans-serif;
+}
+h3 {
+  text-align:left;
+  font-family: 'Quicksand', sans-serif;
+}
+p {
+  text-align: left;
+  line-height: 2;
+  width: 1400px;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+}
+.charu-img {
+  float: left;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+}
+.mid-h2 {
+  text-align: center;
+}
+.timiline-img {
+  height: 90%;
+  width: 90%;
+  margin-bottom: 50px;
+}
+.drawing-img {
+  float: left;
+  height: 100px;
+  width: 100px;
+
+}
+.writing-img {
+  float: right;
+  height: 100px;
+  width: 100px;
+
+}
+.false-body {
+  border: 1px solid;
+}
+.mid-mid {
+  padding: 50px;
+}
+.draw-para {
+  width: 500px;
+}
+.write-para {
+  width: 500px;
+}
